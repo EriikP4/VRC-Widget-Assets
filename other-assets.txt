@@ -1,0 +1,11 @@
+Rank Official Colors:
+
+Visitor: #bababa - grey
+New user: #1678ff - blue
+User: #2acf5b - green
+Known: #fe7c42 - orange
+Trusted: #8143e6 - purple
+
+Friend: #efea17 - yellow
+Nuisance: #bababa - grey
+staff: #b52626 - red
