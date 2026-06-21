@@ -1,6 +1,6 @@
 ﻿# VRC Widget Assets  
 
-This is a short tutorial and, at the same time, a list of resources that you can add to your VRChat widget on Discord.
+This is a list of resources that you can add to your VRChat widget on Discord.
 
 ## Tutorial
 **soon™** -- *go to https://discordwidgets.com*
@@ -117,6 +117,7 @@ This is a short tutorial and, at the same time, a list of resources that you can
   <img src="https://wiki-files.vrchat.com/Badge_Testers_T3.png" width="32">
 </div>
 -
+
 ### Custom Assets
 
 coming soon!
