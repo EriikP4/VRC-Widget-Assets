@@ -116,8 +116,44 @@ This is a list of resources that you can add to your VRChat widget on Discord.
   <img src="https://wiki-files.vrchat.com/Badge_Testers_T2.png" width="32">
   <img src="https://wiki-files.vrchat.com/Badge_Testers_T3.png" width="32">
 </div>
--
+
 
 ### Custom Assets
 
-coming soon!
+- Shield Trust Levels
+<img src="https://raw.githubusercontent.com/EriikP4/VRC-Widget-Assets/refs/heads/main/Assets/ShieldRanks/visitor-rank-nosecure.png" width="32"> <img src="https://raw.githubusercontent.com/EriikP4/VRC-Widget-Assets/refs/heads/main/Assets/ShieldRanks/visitor-rank.png" width="32"> <img src="https://raw.githubusercontent.com/EriikP4/VRC-Widget-Assets/refs/heads/main/Assets/ShieldRanks/visitor-danger.png" width="32"> Visitor (nosecure, normal and danger)
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/ShieldRanks/newuser-rank-nosecure.png?raw=true" width="32"> <img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/ShieldRanks/newuser-rank.png?raw=true" width="32"> New user (nosecure and normal)
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/ShieldRanks/user-rank.png?raw=true" width="32"> User
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/ShieldRanks/known-rank.png?raw=true" width="32"> Known
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/ShieldRanks/trusted-rank.png?raw=true" width="32"> Trusted
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/ShieldRanks/staff-rank.png?raw=true" width="32"> Staff/Administrator
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/ShieldRanks/friend-rank.png?raw=true" width="32"> Friend
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/ShieldRanks/nuisance.png?raw=true" width="32"> Nuisance/Dangerous
+
+
+- Age Verification
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/AgeVerification/age-verified-hidden.png?raw=true" width="32"> Age verified, but hidden. May be 18+ or not
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/AgeVerification/age-verified-adult.png?raw=true" width="32"> Verified adult 18+
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/AgeVerification/age-verified-minor.png?raw=true" width="32"> Verified underage
+
+- Platforms
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/Platforms/steamvr.png?raw=true" width="32"> <img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/Platforms/steamvr-alt.png?raw=true" width="32"> SteamVR
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/Platforms/meta.png?raw=true" width="32"> Meta
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/Platforms/oculus.png?raw=true" width="32"> Oculus
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/Platforms/picoxr.png?raw=true" width="32"> Pico
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/Platforms/vive.png?raw=true" width="32"> Vive
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/Platforms/bigscreenvr.png?raw=true" width="32"> BigScreen (?)
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/Platforms/desktop-novr.png?raw=true" width="32"> <img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/Platforms/android.png?raw=true" width="32"> <img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/Platforms/ios.png?raw=true" width="32"> Desktop, Android and iOS (VRChat Platform Icons)
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/Platforms/crossplatform.png?raw=true" width="84"> Crossplatform Icon
+
+
+
+
+- Status Orbs (playing and web/other platform)
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/StatusOrbs/joinme.png?raw=true" width="32"> <img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/StatusOrbs/joinme-ring.png?raw=true" width="32"> Join me
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/StatusOrbs/online.png?raw=true" width="32"> <img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/StatusOrbs/online-ring.png?raw=true" width="32"> Online
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/StatusOrbs/askme.png?raw=true" width="32"> <img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/StatusOrbs/askme-ring.png?raw=true" width="32"> Ask me
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/StatusOrbs/dnd.png?raw=true" width="32"> <img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/StatusOrbs/dnd-ring.png?raw=true" width="32"> Do Not Disturb
+<img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/StatusOrbs/disconnected.png?raw=true" width="32"> <img src="https://github.com/EriikP4/VRC-Widget-Assets/blob/main/Assets/StatusOrbs/disconnected-ring.png?raw=true" width="32"> Disconnected
+
+### View all the assets in the Assets folder
